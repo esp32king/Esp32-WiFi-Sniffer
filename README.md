@@ -9,7 +9,7 @@ DNS intercepting + Captive portals + BLE HID (Combo)
 Created by ❤️ Krishna UPX61
 
 <img src="https://raw.githubusercontent.com/esp32king/Esp32-MITM/refs/heads/main/Files/pkmkb.jpg"></img>
-
+LIVE Intercepting..
 ### ⭐ Overview
 
 This project turns your ESP32 into a powerful WiFi portal system with:
