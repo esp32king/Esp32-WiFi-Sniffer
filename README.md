@@ -11,7 +11,7 @@ Created by ❤️ Krishna UPX61
 <img src="https://raw.githubusercontent.com/esp32king/Esp32-MITM/refs/heads/main/Files/pkmkb.jpg"></img>
 LIVE Intercepting..
 ```
-DNS intercepting + Captive portals + BLE HID (Combo)
+LIVE DNS intercepting + Captive portals + BLE HID (Combo)
 ```
 ### ⭐ Overview
 
