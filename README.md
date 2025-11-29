@@ -106,13 +106,13 @@ Optional: BLE-supported mobile/laptop
 ### 📦 Libraries Needed
 
 Make sure these libraries are installed:
-
+```
 WiFi.h  
 WebServer.h  
 DNSServer.h  
 WiFiUdp.h  
 BleKeyboard.h
-
+```
 ### 🚀 Installation
 ```
 Open Arduino IDE
