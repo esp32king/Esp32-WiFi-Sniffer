@@ -4,7 +4,7 @@
 ### 🚀 ESP32 Advanced Captive Portal + DNS Interceptor + BLE Auto-Action
 🔥 Advanced level WiFi Phishing 
 ```
-DNS intercepting + Captive portals + BLE HID
+DNS intercepting + Captive portals + BLE HID (Combo)
 ```
 Created by ❤️ Krishna UPX61
 
