@@ -177,11 +177,12 @@ Perfect for presentations 💙
 
 ### 📁 Project Author
 
-Made with ❤️ by
+Made with ❤️ by Krishna UPX61
 
-Krishna UPX61
+
 
 Instagram: @krishna_upx61
+
 GitHub: github.com/esp32king
 
 ### ⭐ Give a Star
