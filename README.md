@@ -177,7 +177,9 @@ Perfect for presentations 💙
 
 ### 📁 Project Author
 
-Made with ❤️ by Krishna UPX61
+Made with ❤️ by 
+
+   Krishna UPX61
 
 
 
