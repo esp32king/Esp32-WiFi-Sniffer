@@ -1,9 +1,11 @@
 # Esp32-MITM
  
 
-### 🚀 ESP32 Advanced Captive Portal + DNS Logger + BLE Auto-Action
-🔥 Advanced level WiFi Phishing With DNS intercepting + Captive portals + BLE HID
-
+### 🚀 ESP32 Advanced Captive Portal + DNS Interceptor + BLE Auto-Action
+🔥 Advanced level WiFi Phishing 
+```
+DNS intercepting + Captive portals + BLE HID
+```
 Created by ❤️ Krishna UPX61
 
 ### ⭐ Overview
