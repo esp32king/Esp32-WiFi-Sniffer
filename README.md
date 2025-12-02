@@ -14,13 +14,8 @@ LIVE Intercepting..
 DNS intercepting + Captive portals + BLE HID (Combo)
 ```
 ### ⭐ Overview
-<iframe width="100%" height="600"
-src="https://www.youtube.com/embed/cJmxkM5E3FE"
-title="YouTube video"
-frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen>
-</iframe>
+
+[![Video](https://img.youtube.com/vi/cJmxkM5E3FE/maxresdefault.jpg)](https://youtube.com/shorts/cJmxkM5E3FE)
 
 This project turns your ESP32 into a powerful WiFi portal system with:
 
