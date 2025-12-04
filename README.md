@@ -214,4 +214,4 @@ GitHub: github.com/esp32king
 
 If this project helped you → Give it a ⭐ on GitHub! 🙌
 
-[![Video](https://img.youtube.com/vi/cJmxkM5E3FE/maxresdefault.jpg)](https://youtube.com/shorts/cJmxkM5E3FE)
+[![Video](https://i.ytimg.com/vi/bGiz9WYKQgk/hqdefault.jpg)](https://youtu.be/bGiz9WYKQgk)
