@@ -12,8 +12,13 @@ Created by ❤️ Krishna UPX61
 <img src="https://raw.githubusercontent.com/esp32king/Esp32-WiFi-Sniffer/refs/heads/main/Files/pkmkb.png"></img>
 LIVE Intercepting..
 ```
+
 DNS intercepting + Captive portals + BLE HID (Combo)
 ```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=LIVE+DNS+Intercepting....!;ESP32+WiFi+Interceptor+%F0%9F%98%8E" alt="Typing SVG" />
+</p>
+
 
 ### Code Flash
 Flash Here 👉 <a href="https://esptool.spacehuhn.com">Esptool.spacehuhn.com</a>
