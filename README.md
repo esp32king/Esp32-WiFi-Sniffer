@@ -16,7 +16,7 @@ LIVE Intercepting..
 DNS intercepting + Captive portals + BLE HID (Combo)
 ```
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=LIVE+DNS+Intercepting....!;ESP32+WiFi+Interceptor+%F0%9F%98%8E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=LIVE+DNS+Intercepting....!;ESP32+WiFi+Interceptor;Created+By+Krishna+UP61" alt="Typing SVG" />
 </p>
 
 
