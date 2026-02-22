@@ -198,6 +198,7 @@ Ctrl+E → URL bar
 Types:
 
 https://instagram.com/krishna_upx61
+ MSG ME
 
 
 Perfect for presentations 💙
