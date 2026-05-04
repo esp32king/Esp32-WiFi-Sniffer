@@ -1,5 +1,4 @@
 <img src="https://komarev.com/ghpvc/?username=esp32king3&label=Profile%20views&color=0e75b6&style=flat" alt="visitor counter" />
-<img src="https://count.getloli.com/get/@esp32king3?theme=rule34" alt="visitor counter"/>
 
 
 # Esp32-Wifi sniffer,Full Android interceptor
@@ -225,3 +224,6 @@ GitHub: github.com/esp32king
 If this project helped you → Give it a ⭐ on GitHub! 🙌
 
 [![Video](https://i.ytimg.com/vi/bGiz9WYKQgk/hqdefault.jpg)](https://youtu.be/bGiz9WYKQgk)
+
+
+<img src="https://count.getloli.com/get/@esp32king3?theme=rule34" alt="visitor counter"/>
