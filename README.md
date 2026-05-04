@@ -2,7 +2,7 @@
  <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=LIVE+DNS+Intercepting......;ESP32+WiFi+Interceptor;Created+By+Krishna+UP61;Check+Your+Android+Hack+or+not;Intercept+it" alt="Typing SVG" />
 </p>
-
+<img src="https://komarev.com/ghpvc/?username=esp32king&label=Profile%20views&color=0e75b6&style=flat" alt="visitor counter" />
 
 ### 🚀 ESP32 Advanced Captive Portal + DNS Interceptor + BLE Auto-Action
 🔥 Advanced level WiFi Phishing 
